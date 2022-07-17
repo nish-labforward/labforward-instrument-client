@@ -1,0 +1,17 @@
+{
+  "name": "driver",
+  "version": "1.0.0",
+  "description": "The client app which listens to the Driver server and configures the instrument",
+  "main": "instrument-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node instrument-client.js"
+  },
+  "author": "Nishad",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "socket.io-client": "^4.5.1"
+  },
+  "devDependencies": {}
+}
