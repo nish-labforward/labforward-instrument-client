@@ -7,7 +7,7 @@ This client App is intended to communicate with the Driver and configure the dev
 The NodeJs project requires the following packages/modules
 
 - NodeJS and NPM Installation
-- Prompt-sync
+- Socket.io Client
 
 ## Follow the guide to run the project
 
